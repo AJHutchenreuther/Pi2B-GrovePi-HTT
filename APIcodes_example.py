@@ -1,0 +1,7 @@
+DarkSkykey = "x"
+Wundergroundkey = "x"
+InitialStatekey = "x"
+Trial1BucketKey = "x"
+Trial2BucketKey = "x"
+Trial1Bucket = "x"
+Trial2Bucket = "x"
